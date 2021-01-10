@@ -1,0 +1,4 @@
+C:\Users\anfranci\source\repos\ananddotnetlin\ananddotnetlin\obj\Release\netcoreapp2.2\ananddotnetlin.csprojAssemblyReference.cache
+C:\Users\anfranci\source\repos\ananddotnetlin\ananddotnetlin\obj\Release\netcoreapp2.2\ananddotnetlin.AssemblyInfoInputs.cache
+C:\Users\anfranci\source\repos\ananddotnetlin\ananddotnetlin\obj\Release\netcoreapp2.2\ananddotnetlin.AssemblyInfo.cs
+C:\Users\anfranci\source\repos\ananddotnetlin\ananddotnetlin\obj\Release\netcoreapp2.2\ananddotnetlin.csproj.CoreCompileInputs.cache
