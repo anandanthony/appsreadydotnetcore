@@ -25,7 +25,7 @@ namespace ananddotnetlin.Controllers
         public IActionResult Index()
         {
             _logger.LogInformation(Config["myappsetting"]);
-            printaspnetiispp();
+            //printaspnetiispp();
             return View();
         }
 

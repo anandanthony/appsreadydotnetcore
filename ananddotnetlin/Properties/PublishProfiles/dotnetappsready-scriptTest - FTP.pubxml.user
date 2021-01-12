@@ -6,30 +6,30 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAUraauSvz+UmvLX2+l7vvuwAAAAACAAAAAAADZgAAwAAAABAAAACHNRWP4xrt069Fprh62KI3AAAAAASAAACgAAAAEAAAAHxaeupEvaZm0+5ijsxYXYOAAAAAHUBbWOtvBc1R2olz5R470Y8eixzmCEw0+PIZdf//Hwh8SWMPy84OQ2UVHuw7uam4KwTX1EAbCXXpV+kYgkEdeQXMwDArJ7udl1KpXf4/bklXJzTqilEatxO34UnLPFH2GO7CoZMm7NWzx45VzTI/MS555QE00qkyI7FR9/0e+sgUAAAANanb1S2wCEiKbsbzxpw7jbS/ZVA=</EncryptedPassword>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAUraauSvz+UmvLX2+l7vvuwAAAAACAAAAAAADZgAAwAAAABAAAAAk5WGu7GzRV/m//TaK2n35AAAAAASAAACgAAAAEAAAAFMy/SoS9H/RAgSlnZHvL4CAAAAAi9py6fWVJEurduD54eE6sCIpO5NXfbgrMChoj5ISTkzkHZ7+mzqZdQW7juB5OREPzmLCf59Xka37eYzhIti2cIKY4OTiB+VnnOKOyPCuwTUcC5l6mMhbcGYxjaG5p8cDpKoa5WTaXaDuni4nD/H3r1fGu3TQwVHNZwZ0j4P+3rQUAAAAcUTrPjCsVNSiBEaXRoJU3W30vfs=</EncryptedPassword>
     <_PublishTargetUrl>ftp://waws-prod-am2-351.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="ananddotnetlin.deps.json">
-      <publishTime>01/12/2021 04:28:35</publishTime>
+      <publishTime>01/12/2021 00:49:31</publishTime>
     </File>
     <File Include="ananddotnetlin.dll">
-      <publishTime>01/12/2021 04:28:33</publishTime>
+      <publishTime>01/12/2021 00:49:25</publishTime>
     </File>
     <File Include="ananddotnetlin.exe">
-      <publishTime>01/12/2021 04:28:33</publishTime>
+      <publishTime>01/12/2021 00:49:25</publishTime>
     </File>
     <File Include="ananddotnetlin.pdb">
-      <publishTime>01/12/2021 04:28:33</publishTime>
+      <publishTime>01/12/2021 00:49:25</publishTime>
     </File>
     <File Include="ananddotnetlin.runtimeconfig.json">
       <publishTime>12/15/2020 21:28:33</publishTime>
     </File>
     <File Include="ananddotnetlin.Views.dll">
-      <publishTime>01/12/2021 04:28:34</publishTime>
+      <publishTime>01/12/2021 00:49:31</publishTime>
     </File>
     <File Include="ananddotnetlin.Views.pdb">
-      <publishTime>01/12/2021 04:28:34</publishTime>
+      <publishTime>01/12/2021 00:49:31</publishTime>
     </File>
     <File Include="appsettings.Development.json">
       <publishTime>10/23/2020 03:22:32</publishTime>
@@ -101,7 +101,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/15/2018 13:29:44</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>01/12/2021 04:28:40</publishTime>
+      <publishTime>01/12/2021 00:49:31</publishTime>
     </File>
     <File Include="wwwroot/css/site.css">
       <publishTime>09/24/2020 01:28:42</publishTime>
